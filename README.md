@@ -1,0 +1,3 @@
+# Awake
+Awake is game project made by [elywern](https://github.com/elywern) and [Val1t3](https://github.com/Val1t3) for the Global Game Jam 2022.
+It was our first game project, and our first time with C# langage and Unity.
